@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace QuantumCalzone
 {
-    public static class EditorUtilities
+    public static partial class EditorUtilities
     {
         public static T GetOrCreate<T>(string subDirectory = "") where T : ScriptableObject
         {
