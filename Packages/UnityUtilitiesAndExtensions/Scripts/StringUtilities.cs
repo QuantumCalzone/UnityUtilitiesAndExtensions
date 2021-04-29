@@ -2,7 +2,7 @@ using System.Text;
 
 namespace QuantumCalzone
 {
-    public static class StringUtilities
+    public static partial class StringUtilities
     {
         public static string AddSpacesToSentence(string text, bool preserveAcronyms)
         {
