@@ -3,7 +3,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace QuantumCalzone
+namespace UnityUtilitiesAndExtensions
 {
     public static partial class EditorUtilities
     {
