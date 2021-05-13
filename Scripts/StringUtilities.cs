@@ -1,6 +1,6 @@
 using System.Text;
 
-namespace QuantumCalzone
+namespace UnityUtilitiesAndExtensions
 {
     public static partial class StringUtilities
     {
